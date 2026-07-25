@@ -7,3 +7,13 @@ O mini guia de estudos em Python pode produzir resumos, responder perguntas e cr
 - Ajudar os iniciantes a programarem em Python;
 - Ser um estudo rápido e prático;
 - Ser um material de revisão e estudo avançados em Python.
+
+
+
+
+## 👩‍💻 Autor
+
+Marília Metzner
+
+GitHub:
+https://github.com/SEUUSUARIO
